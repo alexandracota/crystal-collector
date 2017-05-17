@@ -1,0 +1,27 @@
+.container {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: #00B2D6;
+	margin: 0 auto;
+}
+
+.random-number, .user-score {
+	background-color: lightgray;
+	height: 75px;
+	text-align: center;
+	padding: 20px;
+	font-size: 24px;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
